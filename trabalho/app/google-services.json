@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930937886171",
+    "project_id": "tarefas-f7705",
+    "storage_bucket": "tarefas-f7705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930937886171:android:a2ca8469a007887dd7c3fe",
+        "android_client_info": {
+          "package_name": "com.example.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930937886171-q4co29o6figt31r416vnj04kuh1an808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_aylc-A1Mqd8A802uaLf1o_MN4POgTQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930937886171-q4co29o6figt31r416vnj04kuh1an808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
